@@ -4,6 +4,25 @@
   padding: 2rem;
   text-align: center;
 }
+/* ==================my stuff========================== */
+.selectedPuppy {
+  border: solid;
+  background-color: rgba(0, 0, 0, 0.553);
+  padding: 1.5em;
+  border-radius: 1.5em;
+}
+
+.puppySelector:hover {
+  background-color: rgba(189, 41, 63, 0.468);
+  border-radius: 1.5em;
+}
+
+.puppySelector {
+  cursor: pointer;
+
+}
+
+/* ==================================================== */
 
 .logo {
   height: 6em;
